@@ -57,7 +57,7 @@ Here are the **key building blocks** shown in the diagram:
 - **OCI Generative AI**:
   - Further **formats** and **embeds** the extracted data for better searchability.
   - Creates a **Formatted Document** object.
-- **Autonomous Database ZS3ai**:
+- **Autonomous Database 23ai**:
   - Stores extracted examples and vectors (indexed embeddings).
 - **OCI Streaming**:
   - Streams the processed, formatted documents into the next phase for review.
