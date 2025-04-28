@@ -32,7 +32,7 @@ Here are the **key building blocks** shown in the diagram:
 | Data Capture & Processing | Payable Invoices Data Loader | Capture invoices, extract data using GenAI, store structured info |
 | Invoice Review & Creation | Payable Invoice Review & Creation | Review, correct, and push invoices into Oracle ERP |
 | Data Sources | Social/Email/Business Apps | Where invoices originally come from (e.g., Gmail, ERP, Outlook) |
-| Storage & Intelligence | OCI Object Storage, Document Understanding, OCI GenAI, Autonomous DB ZS3ai | Intelligent processing and database management |
+| Storage & Intelligence | OCI Object Storage, Document Understanding, OCI GenAI, Autonomous DB 23ai | Intelligent processing and database management |
 | Integration Backbone | OCI Streaming, Oracle Integration, Integration Connectors | Move data across components seamlessly |
 
 ---
@@ -127,4 +127,8 @@ Here are real-world scenarios where this can help customers:
 
 
 ---
-
+Refrences:
+https://docs.oracle.com/en/cloud/saas/financials/25a/faipp/index.html
+https://docs.oracle.com/en/cloud/saas/financials/24c/fappp/how-integrated-invoice-imaging-works-for-oracle-cloud.html
+https://docs.oracle.com/en/cloud/saas/financials/24b/faipp/processing-electronic-invoices.html
+https://docs.oracle.com/en/cloud/saas/financials/25b/farfa/api-payables-interface-invoices.html
